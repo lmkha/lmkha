@@ -1,5 +1,3 @@
-![quino-al-mBQIfKlvowM-unsplash](https://github.com/lmkha/lmkha/assets/171664223/f8942bc2-ec53-4b39-9b12-25ca0b1ac77f)
-
 <h1 align="center">Hi 👋, I'm Le Minh Kha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmkha&label=Profile%20views&color=0e75b6&style=flat" alt="lmkha" /> </p>
 
