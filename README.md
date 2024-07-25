@@ -141,26 +141,4 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lmkha&show_icons=true&locale=en&layout=compact"
-    alt="lmkha"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=lmkha&show_icons=true&locale=en"
-    alt="lmkha"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lmkha&"
-    alt="lmkha"
-  />
-</p>
+![lmkha's Stats](https://github-readme-stats.vercel.app/api?username=lmkha&theme=default&show_icons=true&hide_border=true&count_private=true)
